@@ -31,11 +31,10 @@ Here are some ideas to get you started:
 
 <div align="left">
   <ul style="list-style-type:none; padding-left: 0;">
-    <li>:rocket: Looking to collaborate on exciting projects.</li>
     <li>:hourglass_flowing_sand: Currently learning Linux.</li>
+    <li>:rocket: Looking to collaborate on exciting projects.</li>
     <li>:books: Enthusiastic about continuous learning and exploring new technologies to expand my skill set.</li>
-    <li>:basketball: In my free time, I enjoy playing basketball and unwinding with video games.</li>
-    <li>:zap: Fun fact: I love attending Meetups for learning new technologies and conferences for networking opportunities.</li>
+    <li>:zap: Fun fact: In my free time, I enjoy watching basketball and unwinding with video games.</li>
   </ul>
 </div>
 
